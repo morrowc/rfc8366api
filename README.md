@@ -1,6 +1,6 @@
 # Summary
 An API, common among vendors, is needed that supplies RFC8366 Ownership
-Vounches used for RFC8572 sZTP. It is necessary to automate the creation and
+Vouches used for RFC8572 sZTP. It is necessary to automate the creation and
 retrieval of OVs, because it is utterly impossible to manage them manually at
 scale.
 
